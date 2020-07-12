@@ -87,7 +87,7 @@ content img {
     margin: 15px 10px;
 }
 
-.languages a,{
+.languages a{
     flex-basis: content;
 }
 .languages li {
